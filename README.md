@@ -4,10 +4,14 @@
 
 ### Developer building practical web, automation, and application projects
 
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+practical+software;Learning+by+shipping+projects;Python+%7C+JavaScript+%7C+HTML%2FCSS" alt="Animated profile introduction">
+</p>
+
 I enjoy turning ideas into useful software and learning by shipping projects. My current work spans **Python**, **JavaScript**, **HTML/CSS**, and application development.
 
 <p>
-  <a href="https://github.com/Mohamed0-0Tarek?tab=repositories"><img src="https://img.shields.io/badge/Projects-9-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
+  <a href="https://github.com/Mohamed0-0Tarek?tab=repositories"><img src="https://img.shields.io/badge/Projects-10-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
   <a href="https://github.com/Mohamed0-0Tarek"><img src="https://img.shields.io/badge/GitHub-Mohamed0--0Tarek-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
@@ -29,6 +33,21 @@ I enjoy turning ideas into useful software and learning by shipping projects. My
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <a href="https://github.com/Mohamed0-0Tarek">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mohamed0-0Tarek&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Mohamed0-0Tarek's GitHub statistics">
+  </a>
+  <a href="https://github.com/Mohamed0-0Tarek">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed0-0Tarek&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Mohamed0-0Tarek's most used languages">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamed0-0Tarek&theme=tokyonight&hide_border=true" alt="Mohamed0-0Tarek's GitHub contribution streak">
 </p>
 
 ## Featured repositories
